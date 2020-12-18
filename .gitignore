@@ -1,0 +1,17 @@
+node_modules
+.uini
+.idea
+Error*
+*.php
+*.conf
+*.stackdump
+.gulpfile.js
+.project
+~*
+.github
+.vscode/*
+__temp/*
+*.zip
+.vscode
+/src/css/
+.DS_Store
